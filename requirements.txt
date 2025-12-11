@@ -1,0 +1,15 @@
+streamlit
+nomic
+chromadb
+ollama
+pypdf
+pdf2image
+pillow
+python-dotenv
+tiktoken
+transformers
+torch
+torchvision
+accelerate
+einops
+timm
